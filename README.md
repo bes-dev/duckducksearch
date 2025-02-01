@@ -45,7 +45,7 @@ pip install git+https://github.com/bes-dev/duckducksearch.git
 ## Usage
 
 ```python
-from duckduck_search_lib import DuckDuckSearch
+from duckducksearch import DuckDuckSearch
 
 # Initialize the searcher with your desired configuration.
 searcher = DuckDuckSearch(
